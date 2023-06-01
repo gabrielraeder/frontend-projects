@@ -1,0 +1,94 @@
+.detailsImage {
+  align-self: center;
+  border-radius: 5px;
+  height: auto;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.carouselContainer {
+  width: 100%;
+}
+
+.youtubeContainer {
+  align-self: center;
+  margin-bottom: 10px;
+}
+
+.ingredientsContainer {
+  align-self: center;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  padding: 5px 0 5px 30px;
+  width: 90%;
+}
+
+.instructionsContainer p {
+  margin: 5px 10px;
+}
+
+.instructionsContainer h4 {
+  margin: 5px 10px;
+}
+
+.instructionsContainer {
+  align-self: center;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  width: 90%;
+}
+
+.container {
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  width: 90%;
+}
+
+.containerText {
+  text-align: center;
+  padding: 0 20px 0 20px;
+}
+
+.containerText h3 {
+  margin: 2px 0 2px;
+}
+
+.containerText p {
+  margin-bottom: 2px;
+}
+
+.carouselItem {
+  display: flex;
+  justify-content: center;
+}
+
+.startRecipeBtn {
+  background-color: #fcdc36;
+  bottom: 0;
+  left: 0;
+  padding-top: 5px;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+}
+
+.recipePage {
+  height: 100%;
+  width: 100%;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  bottom: 42px;
+  height: 85%;
+  margin-left: 5%;
+  overflow-y: auto;
+  position: fixed;
+  width: 90%;
+  z-index: 0;
+}
